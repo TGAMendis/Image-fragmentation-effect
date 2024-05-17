@@ -1,0 +1,1373 @@
+/* control the granularity */
+/* speed factor */
+@property --c-0-0 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-0-1 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-0-2 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-0-3 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-0-4 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-0-5 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-0-6 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-0-7 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-0-8 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-0-9 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-0-10 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-0-11 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-0-12 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-0-13 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-0-14 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-1-0 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-1-1 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-1-2 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-1-3 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-1-4 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-1-5 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-1-6 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-1-7 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-1-8 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-1-9 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-1-10 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-1-11 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-1-12 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-1-13 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-1-14 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-2-0 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-2-1 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-2-2 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-2-3 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-2-4 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-2-5 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-2-6 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-2-7 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-2-8 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-2-9 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-2-10 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-2-11 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-2-12 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-2-13 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-2-14 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-3-0 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-3-1 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-3-2 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-3-3 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-3-4 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-3-5 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-3-6 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-3-7 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-3-8 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-3-9 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-3-10 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-3-11 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-3-12 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-3-13 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-3-14 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-4-0 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-4-1 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-4-2 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-4-3 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-4-4 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-4-5 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-4-6 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-4-7 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-4-8 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-4-9 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-4-10 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-4-11 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-4-12 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-4-13 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-4-14 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-5-0 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-5-1 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-5-2 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-5-3 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-5-4 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-5-5 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-5-6 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-5-7 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-5-8 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-5-9 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-5-10 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-5-11 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-5-12 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-5-13 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-5-14 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-6-0 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-6-1 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-6-2 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-6-3 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-6-4 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-6-5 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-6-6 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-6-7 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-6-8 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-6-9 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-6-10 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-6-11 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-6-12 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-6-13 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-6-14 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-7-0 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-7-1 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-7-2 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-7-3 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-7-4 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-7-5 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-7-6 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-7-7 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-7-8 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-7-9 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-7-10 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-7-11 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-7-12 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-7-13 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-7-14 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-8-0 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-8-1 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-8-2 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-8-3 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-8-4 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-8-5 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-8-6 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-8-7 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-8-8 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-8-9 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-8-10 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-8-11 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-8-12 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-8-13 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-8-14 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-9-0 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-9-1 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-9-2 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-9-3 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-9-4 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-9-5 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-9-6 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-9-7 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-9-8 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-9-9 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-9-10 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-9-11 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-9-12 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-9-13 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-9-14 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-10-0 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-10-1 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-10-2 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-10-3 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-10-4 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-10-5 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-10-6 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-10-7 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-10-8 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-10-9 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-10-10 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-10-11 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-10-12 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-10-13 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-10-14 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-11-0 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-11-1 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-11-2 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-11-3 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-11-4 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-11-5 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-11-6 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-11-7 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-11-8 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-11-9 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-11-10 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-11-11 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-11-12 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-11-13 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-11-14 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-12-0 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-12-1 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-12-2 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-12-3 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-12-4 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-12-5 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-12-6 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-12-7 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-12-8 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-12-9 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-12-10 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-12-11 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-12-12 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-12-13 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-12-14 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-13-0 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-13-1 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-13-2 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-13-3 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-13-4 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-13-5 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-13-6 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-13-7 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-13-8 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-13-9 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-13-10 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-13-11 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-13-12 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-13-13 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-13-14 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-14-0 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-14-1 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-14-2 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-14-3 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-14-4 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-14-5 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-14-6 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-14-7 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-14-8 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-14-9 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-14-10 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-14-11 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-14-12 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-14-13 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+@property --c-14-14 {
+  syntax: "<percentage>";
+  initial-value: 100%;
+  inherits: true;
+}
+/* uncomment the function you want to use */
+img {
+  transition: --c-0-0 0.2891239014s 0.153771029s, --c-0-1 0.496786305s 0.1272815433s, --c-0-2 0.0297489577s 0.0079932981s, --c-0-3 0.1569010232s 0.003775557s, --c-0-4 0.4684465375s 0.1998148878s, --c-0-5 0.052792464s 0.0637752632s, --c-0-6 0.2344433823s 0.4115145528s, --c-0-7 0.3841071385s 0.1865908675s, --c-0-8 0.1102542065s 0.0515290791s, --c-0-9 0.2164253771s 0.00355461s, --c-0-10 0.4512914736s 0.4788821982s, --c-0-11 0.1366246547s 0.1996273303s, --c-0-12 0.2165262879s 0.3339961553s, --c-0-13 0.4708147768s 0.2327793942s, --c-0-14 0.2604728349s 0.1703245429s, --c-1-0 0.3705883287s 0.0472639172s, --c-1-1 0.2462987219s 0.2509376943s, --c-1-2 0.0893422858s 0.4287275351s, --c-1-3 0.0690772434s 0.4186234583s, --c-1-4 0.4898968972s 0.2557457496s, --c-1-5 0.1155432619s 0.3510817313s, --c-1-6 0.0437045466s 0.3733433547s, --c-1-7 0.0673786726s 0.1256592192s, --c-1-8 0.2638991413s 0.0096102812s, --c-1-9 0.2657277016s 0.4278525915s, --c-1-10 0.327491698s 0.0904663994s, --c-1-11 0.0438138618s 0.1133860355s, --c-1-12 0.1909656705s 0.3596522743s, --c-1-13 0.2760408122s 0.0807812876s, --c-1-14 0.3826236371s 0.090014506s, --c-2-0 0.4716834712s 0.0610973688s, --c-2-1 0.2386405219s 0.3347248915s, --c-2-2 0.1938565788s 0.2361397559s, --c-2-3 0.243985379s 0.0999389419s, --c-2-4 0.0798840763s 0.0037714304s, --c-2-5 0.4591321205s 0.2669800749s, --c-2-6 0.2110958732s 0.278759087s, --c-2-7 0.3316283998s 0.2094925819s, --c-2-8 0.2512241756s 0.3145457681s, --c-2-9 0.3213519168s 0.3255349778s, --c-2-10 0.4919002042s 0.1985686554s, --c-2-11 0.1929167501s 0.424979083s, --c-2-12 0.4480328779s 0.4152876084s, --c-2-13 0.1718734741s 0.1170682741s, --c-2-14 0.2848479147s 0.1514297667s, --c-3-0 0.4832043748s 0.3459543017s, --c-3-1 0.3678921447s 0.2049060104s, --c-3-2 0.0445629811s 0.2447453745s, --c-3-3 0.0035587201s 0.446135795s, --c-3-4 0.2192555419s 0.1008941921s, --c-3-5 0.4400540373s 0.3343030498s, --c-3-6 0.0436248398s 0.4839301879s, --c-3-7 0.2558152311s 0.3954515306s, --c-3-8 0.4624864842s 0.4641482111s, --c-3-9 0.043577438s 0.0231823884s, --c-3-10 0.0090287982s 0.4040441368s, --c-3-11 0.1560858203s 0.0656584875s, --c-3-12 0.1350680691s 0.3945943524s, --c-3-13 0.3982944053s 0.4514689387s, --c-3-14 0.0744175936s 0.2196144278s, --c-4-0 0.4621376234s 0.3349483143s, --c-4-1 0.0611791817s 0.148503733s, --c-4-2 0.4803018951s 0.0040603122s, --c-4-3 0.1679532905s 0.2051265386s, --c-4-4 0.1536277203s 0.2966618948s, --c-4-5 0.2291837139s 0.4875596229s, --c-4-6 0.1649677661s 0.3683476488s, --c-4-7 0.2901946s 0.1886672547s, --c-4-8 0.2388333413s 0.178998724s, --c-4-9 0.1595301889s 0.0201433898s, --c-4-10 0.4558264433s 0.2746557853s, --c-4-11 0.4907676947s 0.0101097494s, --c-4-12 0.4122837888s 0.0802337525s, --c-4-13 0.213275587s 0.256410228s, --c-4-14 0.401271113s 0.0823245282s, --c-5-0 0.1659029544s 0.338741173s, --c-5-1 0.1280938815s 0.3738222317s, --c-5-2 0.0229902242s 0.2517863634s, --c-5-3 0.2240196452s 0.3416452028s, --c-5-4 0.3354029339s 0.2798549854s, --c-5-5 0.370101428s 0.3171751835s, --c-5-6 0.4703212343s 0.1867163808s, --c-5-7 0.3966453309s 0.0329321931s, --c-5-8 0.2620133976s 0.1956974237s, --c-5-9 0.2889541653s 0.4424421241s, --c-5-10 0.1453269262s 0.1283561535s, --c-5-11 0.4809514875s 0.1050201958s, --c-5-12 0.1448179804s 0.0237530143s, --c-5-13 0.120595782s 0.4734900454s, --c-5-14 0.0459571984s 0.1903426956s, --c-6-0 0.2180386245s 0.2214476167s, --c-6-1 0.0650853067s 0.171015324s, --c-6-2 0.045358025s 0.1346889744s, --c-6-3 0.323119817s 0.1389167298s, --c-6-4 0.0260127105s 0.1240694798s, --c-6-5 0.3686529133s 0.3408526885s, --c-6-6 0.2953405095s 0.0467229593s, --c-6-7 0.3674055479s 0.0110057402s, --c-6-8 0.2054933795s 0.0784626167s, --c-6-9 0.1501832041s 0.1936496515s, --c-6-10 0.0141545034s 0.3310310723s, --c-6-11 0.3117545959s 0.4601437965s, --c-6-12 0.3936080778s 0.2806225228s, --c-6-13 0.0132925065s 0.2890611353s, --c-6-14 0.3951982482s 0.4787504479s, --c-7-0 0.2255579411s 0.3880926522s, --c-7-1 0.1611447277s 0.1589327318s, --c-7-2 0.3762574651s 0.3183525919s, --c-7-3 0.0904730735s 0.0511104219s, --c-7-4 0.3719274723s 0.4721208415s, --c-7-5 0.2171093302s 0.222957547s, --c-7-6 0.0599344381s 0.0305826895s, --c-7-7 0.3686008262s 0.0776041496s, --c-7-8 0.2584061696s 0.0423145123s, --c-7-9 0.0394217087s 0.282484744s, --c-7-10 0.037259316s 0.2487386458s, --c-7-11 0.3582356486s 0.2985221336s, --c-7-12 0.0939315631s 0.1321653676s, --c-7-13 0.3278862136s 0.4962853255s, --c-7-14 0.1151842109s 0.0686227027s, --c-8-0 0.081411075s 0.0496109174s, --c-8-1 0.2730489213s 0.2594863825s, --c-8-2 0.3236380021s 0.2501823682s, --c-8-3 0.0428576582s 0.4388223564s, --c-8-4 0.2799787209s 0.1928379567s, --c-8-5 0.0516539196s 0.0302628605s, --c-8-6 0.4890771546s 0.4845618636s, --c-8-7 0.3222729358s 0.1126886841s, --c-8-8 0.2668130445s 0.2636962063s, --c-8-9 0.0237107286s 0.3494928614s, --c-8-10 0.3388685629s 0.2914193595s, --c-8-11 0.2117327649s 0.0686548861s, --c-8-12 0.1796144891s 0.0503903257s, --c-8-13 0.1346420066s 0.1000070828s, --c-8-14 0.1277665623s 0.2470092206s, --c-9-0 0.3969653221s 0.2584102864s, --c-9-1 0.0485266055s 0.3154428147s, --c-9-2 0.0296413131s 0.1706930384s, --c-9-3 0.3185802091s 0.3474097414s, --c-9-4 0.4484859089s 0.3797405712s, --c-9-5 0.3496425499s 0.080864152s, --c-9-6 0.444885461s 0.2744733855s, --c-9-7 0.2370473794s 0.4349895817s, --c-9-8 0.4763998585s 0.4913159513s, --c-9-9 0.3760610691s 0.2778280203s, --c-9-10 0.2020286419s 0.2600125327s, --c-9-11 0.4619032774s 0.1798463588s, --c-9-12 0.4823382065s 0.4306887664s, --c-9-13 0.0718820725s 0.4115701418s, --c-9-14 0.1302498404s 0.4552948757s, --c-10-0 0.0532405192s 0.4997251661s, --c-10-1 0.0693430768s 0.4441854505s, --c-10-2 0.001910314s 0.2883969211s, --c-10-3 0.0147092093s 0.2206287321s, --c-10-4 0.1781709893s 0.1091491646s, --c-10-5 0.3710334788s 0.3722234491s, --c-10-6 0.4570486493s 0.0855799018s, --c-10-7 0.2958050572s 0.2236302788s, --c-10-8 0.3099259607s 0.3785935745s, --c-10-9 0.3042937975s 0.0627262876s, --c-10-10 0.0935360538s 0.2544111939s, --c-10-11 0.0467446284s 0.2924208045s, --c-10-12 0.2687767175s 0.0913462161s, --c-10-13 0.0519068087s 0.3848551478s, --c-10-14 0.1970946033s 0.0681160993s, --c-11-0 0.0254941757s 0.3991406494s, --c-11-1 0.4030905997s 0.2759858108s, --c-11-2 0.3457707134s 0.0403648114s, --c-11-3 0.4965981459s 0.474122053s, --c-11-4 0.0330361194s 0.0965868727s, --c-11-5 0.0939829986s 0.1232569959s, --c-11-6 0.0201016677s 0.4363054582s, --c-11-7 0.2008613171s 0.3691024197s, --c-11-8 0.3570966378s 0.1438462295s, --c-11-9 0.1174638726s 0.2211207162s, --c-11-10 0.2523257016s 0.3119552396s, --c-11-11 0.4533112027s 0.0940748024s, --c-11-12 0.2077037511s 0.1428262636s, --c-11-13 0.3860834182s 0.3490724112s, --c-11-14 0.0149595404s 0.4160700664s, --c-12-0 0.1019364536s 0.1788957554s, --c-12-1 0.1046291204s 0.3281204575s, --c-12-2 0.3064144288s 0.4322681367s, --c-12-3 0.0543066474s 0.3511851107s, --c-12-4 0.4649988576s 0.1587297946s, --c-12-5 0.3617462531s 0.2562703144s, --c-12-6 0.2874024308s 0.1662736696s, --c-12-7 0.3083484387s 0.2159110099s, --c-12-8 0.03476625s 0.1908780409s, --c-12-9 0.447655951s 0.1781533912s, --c-12-10 0.3878398418s 0.2323721003s, --c-12-11 0.497274894s 0.133077967s, --c-12-12 0.1201909499s 0.3265529197s, --c-12-13 0.4601466919s 0.0513490045s, --c-12-14 0.1584817546s 0.4504252481s, --c-13-0 0.4322843801s 0.2804637375s, --c-13-1 0.0929463798s 0.2611447661s, --c-13-2 0.475813827s 0.0180379448s, --c-13-3 0.3941090227s 0.0562384045s, --c-13-4 0.003419866s 0.4517433034s, --c-13-5 0.4101072679s 0.4563602133s, --c-13-6 0.0910219603s 0.1694586021s, --c-13-7 0.059872532s 0.2427268746s, --c-13-8 0.3770847106s 0.2756496781s, --c-13-9 0.3416258029s 0.4837820429s, --c-13-10 0.239046105s 0.4354879454s, --c-13-11 0.1091729746s 0.1445966147s, --c-13-12 0.1548475741s 0.1970481504s, --c-13-13 0.4868142499s 0.1230405949s, --c-13-14 0.061525574s 0.2663418448s, --c-14-0 0.1257800366s 0.36692324s, --c-14-1 0.1786989348s 0.0421635483s, --c-14-2 0.1695652661s 0.0672639835s, --c-14-3 0.0285221623s 0.0876029134s, --c-14-4 0.2586208969s 0.2897722267s, --c-14-5 0.1279062818s 0.0510821824s, --c-14-6 0.3869924316s 0.3493709822s, --c-14-7 0.0578726179s 0.182431933s, --c-14-8 0.1586708468s 0.1690411779s, --c-14-9 0.4191424142s 0.2742391258s, --c-14-10 0.4214987488s 0.0829901364s, --c-14-11 0.0735281613s 0.4105056002s, --c-14-12 0.313933786s 0.4314212609s, --c-14-13 0.2465422159s 0.4856925221s, --c-14-14 0.4106363851s 0.273119368s;
+  mask: linear-gradient(rgb(0 0 0/var(--c-0-0)) 0 0) calc(0*100%/(15 - 1)) calc(0*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-0-1)) 0 0) calc(0*100%/(15 - 1)) calc(1*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-0-2)) 0 0) calc(0*100%/(15 - 1)) calc(2*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-0-3)) 0 0) calc(0*100%/(15 - 1)) calc(3*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-0-4)) 0 0) calc(0*100%/(15 - 1)) calc(4*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-0-5)) 0 0) calc(0*100%/(15 - 1)) calc(5*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-0-6)) 0 0) calc(0*100%/(15 - 1)) calc(6*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-0-7)) 0 0) calc(0*100%/(15 - 1)) calc(7*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-0-8)) 0 0) calc(0*100%/(15 - 1)) calc(8*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-0-9)) 0 0) calc(0*100%/(15 - 1)) calc(9*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-0-10)) 0 0) calc(0*100%/(15 - 1)) calc(10*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-0-11)) 0 0) calc(0*100%/(15 - 1)) calc(11*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-0-12)) 0 0) calc(0*100%/(15 - 1)) calc(12*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-0-13)) 0 0) calc(0*100%/(15 - 1)) calc(13*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-0-14)) 0 0) calc(0*100%/(15 - 1)) calc(14*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-1-0)) 0 0) calc(1*100%/(15 - 1)) calc(0*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-1-1)) 0 0) calc(1*100%/(15 - 1)) calc(1*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-1-2)) 0 0) calc(1*100%/(15 - 1)) calc(2*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-1-3)) 0 0) calc(1*100%/(15 - 1)) calc(3*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-1-4)) 0 0) calc(1*100%/(15 - 1)) calc(4*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-1-5)) 0 0) calc(1*100%/(15 - 1)) calc(5*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-1-6)) 0 0) calc(1*100%/(15 - 1)) calc(6*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-1-7)) 0 0) calc(1*100%/(15 - 1)) calc(7*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-1-8)) 0 0) calc(1*100%/(15 - 1)) calc(8*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-1-9)) 0 0) calc(1*100%/(15 - 1)) calc(9*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-1-10)) 0 0) calc(1*100%/(15 - 1)) calc(10*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-1-11)) 0 0) calc(1*100%/(15 - 1)) calc(11*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-1-12)) 0 0) calc(1*100%/(15 - 1)) calc(12*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-1-13)) 0 0) calc(1*100%/(15 - 1)) calc(13*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-1-14)) 0 0) calc(1*100%/(15 - 1)) calc(14*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-2-0)) 0 0) calc(2*100%/(15 - 1)) calc(0*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-2-1)) 0 0) calc(2*100%/(15 - 1)) calc(1*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-2-2)) 0 0) calc(2*100%/(15 - 1)) calc(2*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-2-3)) 0 0) calc(2*100%/(15 - 1)) calc(3*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-2-4)) 0 0) calc(2*100%/(15 - 1)) calc(4*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-2-5)) 0 0) calc(2*100%/(15 - 1)) calc(5*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-2-6)) 0 0) calc(2*100%/(15 - 1)) calc(6*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-2-7)) 0 0) calc(2*100%/(15 - 1)) calc(7*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-2-8)) 0 0) calc(2*100%/(15 - 1)) calc(8*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-2-9)) 0 0) calc(2*100%/(15 - 1)) calc(9*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-2-10)) 0 0) calc(2*100%/(15 - 1)) calc(10*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-2-11)) 0 0) calc(2*100%/(15 - 1)) calc(11*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-2-12)) 0 0) calc(2*100%/(15 - 1)) calc(12*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-2-13)) 0 0) calc(2*100%/(15 - 1)) calc(13*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-2-14)) 0 0) calc(2*100%/(15 - 1)) calc(14*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-3-0)) 0 0) calc(3*100%/(15 - 1)) calc(0*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-3-1)) 0 0) calc(3*100%/(15 - 1)) calc(1*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-3-2)) 0 0) calc(3*100%/(15 - 1)) calc(2*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-3-3)) 0 0) calc(3*100%/(15 - 1)) calc(3*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-3-4)) 0 0) calc(3*100%/(15 - 1)) calc(4*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-3-5)) 0 0) calc(3*100%/(15 - 1)) calc(5*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-3-6)) 0 0) calc(3*100%/(15 - 1)) calc(6*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-3-7)) 0 0) calc(3*100%/(15 - 1)) calc(7*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-3-8)) 0 0) calc(3*100%/(15 - 1)) calc(8*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-3-9)) 0 0) calc(3*100%/(15 - 1)) calc(9*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-3-10)) 0 0) calc(3*100%/(15 - 1)) calc(10*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-3-11)) 0 0) calc(3*100%/(15 - 1)) calc(11*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-3-12)) 0 0) calc(3*100%/(15 - 1)) calc(12*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-3-13)) 0 0) calc(3*100%/(15 - 1)) calc(13*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-3-14)) 0 0) calc(3*100%/(15 - 1)) calc(14*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-4-0)) 0 0) calc(4*100%/(15 - 1)) calc(0*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-4-1)) 0 0) calc(4*100%/(15 - 1)) calc(1*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-4-2)) 0 0) calc(4*100%/(15 - 1)) calc(2*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-4-3)) 0 0) calc(4*100%/(15 - 1)) calc(3*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-4-4)) 0 0) calc(4*100%/(15 - 1)) calc(4*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-4-5)) 0 0) calc(4*100%/(15 - 1)) calc(5*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-4-6)) 0 0) calc(4*100%/(15 - 1)) calc(6*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-4-7)) 0 0) calc(4*100%/(15 - 1)) calc(7*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-4-8)) 0 0) calc(4*100%/(15 - 1)) calc(8*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-4-9)) 0 0) calc(4*100%/(15 - 1)) calc(9*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-4-10)) 0 0) calc(4*100%/(15 - 1)) calc(10*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-4-11)) 0 0) calc(4*100%/(15 - 1)) calc(11*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-4-12)) 0 0) calc(4*100%/(15 - 1)) calc(12*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-4-13)) 0 0) calc(4*100%/(15 - 1)) calc(13*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-4-14)) 0 0) calc(4*100%/(15 - 1)) calc(14*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-5-0)) 0 0) calc(5*100%/(15 - 1)) calc(0*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-5-1)) 0 0) calc(5*100%/(15 - 1)) calc(1*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-5-2)) 0 0) calc(5*100%/(15 - 1)) calc(2*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-5-3)) 0 0) calc(5*100%/(15 - 1)) calc(3*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-5-4)) 0 0) calc(5*100%/(15 - 1)) calc(4*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-5-5)) 0 0) calc(5*100%/(15 - 1)) calc(5*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-5-6)) 0 0) calc(5*100%/(15 - 1)) calc(6*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-5-7)) 0 0) calc(5*100%/(15 - 1)) calc(7*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-5-8)) 0 0) calc(5*100%/(15 - 1)) calc(8*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-5-9)) 0 0) calc(5*100%/(15 - 1)) calc(9*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-5-10)) 0 0) calc(5*100%/(15 - 1)) calc(10*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-5-11)) 0 0) calc(5*100%/(15 - 1)) calc(11*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-5-12)) 0 0) calc(5*100%/(15 - 1)) calc(12*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-5-13)) 0 0) calc(5*100%/(15 - 1)) calc(13*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-5-14)) 0 0) calc(5*100%/(15 - 1)) calc(14*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-6-0)) 0 0) calc(6*100%/(15 - 1)) calc(0*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-6-1)) 0 0) calc(6*100%/(15 - 1)) calc(1*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-6-2)) 0 0) calc(6*100%/(15 - 1)) calc(2*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-6-3)) 0 0) calc(6*100%/(15 - 1)) calc(3*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-6-4)) 0 0) calc(6*100%/(15 - 1)) calc(4*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-6-5)) 0 0) calc(6*100%/(15 - 1)) calc(5*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-6-6)) 0 0) calc(6*100%/(15 - 1)) calc(6*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-6-7)) 0 0) calc(6*100%/(15 - 1)) calc(7*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-6-8)) 0 0) calc(6*100%/(15 - 1)) calc(8*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-6-9)) 0 0) calc(6*100%/(15 - 1)) calc(9*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-6-10)) 0 0) calc(6*100%/(15 - 1)) calc(10*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-6-11)) 0 0) calc(6*100%/(15 - 1)) calc(11*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-6-12)) 0 0) calc(6*100%/(15 - 1)) calc(12*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-6-13)) 0 0) calc(6*100%/(15 - 1)) calc(13*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-6-14)) 0 0) calc(6*100%/(15 - 1)) calc(14*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-7-0)) 0 0) calc(7*100%/(15 - 1)) calc(0*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-7-1)) 0 0) calc(7*100%/(15 - 1)) calc(1*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-7-2)) 0 0) calc(7*100%/(15 - 1)) calc(2*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-7-3)) 0 0) calc(7*100%/(15 - 1)) calc(3*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-7-4)) 0 0) calc(7*100%/(15 - 1)) calc(4*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-7-5)) 0 0) calc(7*100%/(15 - 1)) calc(5*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-7-6)) 0 0) calc(7*100%/(15 - 1)) calc(6*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-7-7)) 0 0) calc(7*100%/(15 - 1)) calc(7*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-7-8)) 0 0) calc(7*100%/(15 - 1)) calc(8*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-7-9)) 0 0) calc(7*100%/(15 - 1)) calc(9*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-7-10)) 0 0) calc(7*100%/(15 - 1)) calc(10*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-7-11)) 0 0) calc(7*100%/(15 - 1)) calc(11*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-7-12)) 0 0) calc(7*100%/(15 - 1)) calc(12*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-7-13)) 0 0) calc(7*100%/(15 - 1)) calc(13*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-7-14)) 0 0) calc(7*100%/(15 - 1)) calc(14*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-8-0)) 0 0) calc(8*100%/(15 - 1)) calc(0*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-8-1)) 0 0) calc(8*100%/(15 - 1)) calc(1*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-8-2)) 0 0) calc(8*100%/(15 - 1)) calc(2*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-8-3)) 0 0) calc(8*100%/(15 - 1)) calc(3*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-8-4)) 0 0) calc(8*100%/(15 - 1)) calc(4*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-8-5)) 0 0) calc(8*100%/(15 - 1)) calc(5*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-8-6)) 0 0) calc(8*100%/(15 - 1)) calc(6*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-8-7)) 0 0) calc(8*100%/(15 - 1)) calc(7*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-8-8)) 0 0) calc(8*100%/(15 - 1)) calc(8*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-8-9)) 0 0) calc(8*100%/(15 - 1)) calc(9*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-8-10)) 0 0) calc(8*100%/(15 - 1)) calc(10*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-8-11)) 0 0) calc(8*100%/(15 - 1)) calc(11*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-8-12)) 0 0) calc(8*100%/(15 - 1)) calc(12*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-8-13)) 0 0) calc(8*100%/(15 - 1)) calc(13*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-8-14)) 0 0) calc(8*100%/(15 - 1)) calc(14*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-9-0)) 0 0) calc(9*100%/(15 - 1)) calc(0*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-9-1)) 0 0) calc(9*100%/(15 - 1)) calc(1*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-9-2)) 0 0) calc(9*100%/(15 - 1)) calc(2*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-9-3)) 0 0) calc(9*100%/(15 - 1)) calc(3*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-9-4)) 0 0) calc(9*100%/(15 - 1)) calc(4*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-9-5)) 0 0) calc(9*100%/(15 - 1)) calc(5*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-9-6)) 0 0) calc(9*100%/(15 - 1)) calc(6*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-9-7)) 0 0) calc(9*100%/(15 - 1)) calc(7*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-9-8)) 0 0) calc(9*100%/(15 - 1)) calc(8*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-9-9)) 0 0) calc(9*100%/(15 - 1)) calc(9*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-9-10)) 0 0) calc(9*100%/(15 - 1)) calc(10*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-9-11)) 0 0) calc(9*100%/(15 - 1)) calc(11*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-9-12)) 0 0) calc(9*100%/(15 - 1)) calc(12*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-9-13)) 0 0) calc(9*100%/(15 - 1)) calc(13*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-9-14)) 0 0) calc(9*100%/(15 - 1)) calc(14*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-10-0)) 0 0) calc(10*100%/(15 - 1)) calc(0*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-10-1)) 0 0) calc(10*100%/(15 - 1)) calc(1*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-10-2)) 0 0) calc(10*100%/(15 - 1)) calc(2*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-10-3)) 0 0) calc(10*100%/(15 - 1)) calc(3*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-10-4)) 0 0) calc(10*100%/(15 - 1)) calc(4*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-10-5)) 0 0) calc(10*100%/(15 - 1)) calc(5*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-10-6)) 0 0) calc(10*100%/(15 - 1)) calc(6*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-10-7)) 0 0) calc(10*100%/(15 - 1)) calc(7*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-10-8)) 0 0) calc(10*100%/(15 - 1)) calc(8*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-10-9)) 0 0) calc(10*100%/(15 - 1)) calc(9*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-10-10)) 0 0) calc(10*100%/(15 - 1)) calc(10*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-10-11)) 0 0) calc(10*100%/(15 - 1)) calc(11*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-10-12)) 0 0) calc(10*100%/(15 - 1)) calc(12*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-10-13)) 0 0) calc(10*100%/(15 - 1)) calc(13*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-10-14)) 0 0) calc(10*100%/(15 - 1)) calc(14*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-11-0)) 0 0) calc(11*100%/(15 - 1)) calc(0*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-11-1)) 0 0) calc(11*100%/(15 - 1)) calc(1*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-11-2)) 0 0) calc(11*100%/(15 - 1)) calc(2*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-11-3)) 0 0) calc(11*100%/(15 - 1)) calc(3*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-11-4)) 0 0) calc(11*100%/(15 - 1)) calc(4*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-11-5)) 0 0) calc(11*100%/(15 - 1)) calc(5*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-11-6)) 0 0) calc(11*100%/(15 - 1)) calc(6*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-11-7)) 0 0) calc(11*100%/(15 - 1)) calc(7*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-11-8)) 0 0) calc(11*100%/(15 - 1)) calc(8*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-11-9)) 0 0) calc(11*100%/(15 - 1)) calc(9*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-11-10)) 0 0) calc(11*100%/(15 - 1)) calc(10*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-11-11)) 0 0) calc(11*100%/(15 - 1)) calc(11*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-11-12)) 0 0) calc(11*100%/(15 - 1)) calc(12*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-11-13)) 0 0) calc(11*100%/(15 - 1)) calc(13*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-11-14)) 0 0) calc(11*100%/(15 - 1)) calc(14*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-12-0)) 0 0) calc(12*100%/(15 - 1)) calc(0*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-12-1)) 0 0) calc(12*100%/(15 - 1)) calc(1*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-12-2)) 0 0) calc(12*100%/(15 - 1)) calc(2*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-12-3)) 0 0) calc(12*100%/(15 - 1)) calc(3*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-12-4)) 0 0) calc(12*100%/(15 - 1)) calc(4*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-12-5)) 0 0) calc(12*100%/(15 - 1)) calc(5*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-12-6)) 0 0) calc(12*100%/(15 - 1)) calc(6*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-12-7)) 0 0) calc(12*100%/(15 - 1)) calc(7*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-12-8)) 0 0) calc(12*100%/(15 - 1)) calc(8*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-12-9)) 0 0) calc(12*100%/(15 - 1)) calc(9*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-12-10)) 0 0) calc(12*100%/(15 - 1)) calc(10*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-12-11)) 0 0) calc(12*100%/(15 - 1)) calc(11*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-12-12)) 0 0) calc(12*100%/(15 - 1)) calc(12*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-12-13)) 0 0) calc(12*100%/(15 - 1)) calc(13*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-12-14)) 0 0) calc(12*100%/(15 - 1)) calc(14*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-13-0)) 0 0) calc(13*100%/(15 - 1)) calc(0*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-13-1)) 0 0) calc(13*100%/(15 - 1)) calc(1*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-13-2)) 0 0) calc(13*100%/(15 - 1)) calc(2*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-13-3)) 0 0) calc(13*100%/(15 - 1)) calc(3*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-13-4)) 0 0) calc(13*100%/(15 - 1)) calc(4*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-13-5)) 0 0) calc(13*100%/(15 - 1)) calc(5*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-13-6)) 0 0) calc(13*100%/(15 - 1)) calc(6*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-13-7)) 0 0) calc(13*100%/(15 - 1)) calc(7*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-13-8)) 0 0) calc(13*100%/(15 - 1)) calc(8*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-13-9)) 0 0) calc(13*100%/(15 - 1)) calc(9*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-13-10)) 0 0) calc(13*100%/(15 - 1)) calc(10*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-13-11)) 0 0) calc(13*100%/(15 - 1)) calc(11*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-13-12)) 0 0) calc(13*100%/(15 - 1)) calc(12*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-13-13)) 0 0) calc(13*100%/(15 - 1)) calc(13*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-13-14)) 0 0) calc(13*100%/(15 - 1)) calc(14*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-14-0)) 0 0) calc(14*100%/(15 - 1)) calc(0*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-14-1)) 0 0) calc(14*100%/(15 - 1)) calc(1*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-14-2)) 0 0) calc(14*100%/(15 - 1)) calc(2*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-14-3)) 0 0) calc(14*100%/(15 - 1)) calc(3*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-14-4)) 0 0) calc(14*100%/(15 - 1)) calc(4*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-14-5)) 0 0) calc(14*100%/(15 - 1)) calc(5*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-14-6)) 0 0) calc(14*100%/(15 - 1)) calc(6*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-14-7)) 0 0) calc(14*100%/(15 - 1)) calc(7*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-14-8)) 0 0) calc(14*100%/(15 - 1)) calc(8*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-14-9)) 0 0) calc(14*100%/(15 - 1)) calc(9*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-14-10)) 0 0) calc(14*100%/(15 - 1)) calc(10*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-14-11)) 0 0) calc(14*100%/(15 - 1)) calc(11*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-14-12)) 0 0) calc(14*100%/(15 - 1)) calc(12*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-14-13)) 0 0) calc(14*100%/(15 - 1)) calc(13*100%/(15 - 1)), linear-gradient(rgb(0 0 0/var(--c-14-14)) 0 0) calc(14*100%/(15 - 1)) calc(14*100%/(15 - 1));
+  mask-size: calc(100%/15) calc(100%/15);
+  mask-repeat: no-repeat;
+  cursor: pointer;
+}
+
+img:hover {
+  --c-0-0: 0%;
+  --c-0-1: 0%;
+  --c-0-2: 0%;
+  --c-0-3: 0%;
+  --c-0-4: 0%;
+  --c-0-5: 0%;
+  --c-0-6: 0%;
+  --c-0-7: 0%;
+  --c-0-8: 0%;
+  --c-0-9: 0%;
+  --c-0-10: 0%;
+  --c-0-11: 0%;
+  --c-0-12: 0%;
+  --c-0-13: 0%;
+  --c-0-14: 0%;
+  --c-1-0: 0%;
+  --c-1-1: 0%;
+  --c-1-2: 0%;
+  --c-1-3: 0%;
+  --c-1-4: 0%;
+  --c-1-5: 0%;
+  --c-1-6: 0%;
+  --c-1-7: 0%;
+  --c-1-8: 0%;
+  --c-1-9: 0%;
+  --c-1-10: 0%;
+  --c-1-11: 0%;
+  --c-1-12: 0%;
+  --c-1-13: 0%;
+  --c-1-14: 0%;
+  --c-2-0: 0%;
+  --c-2-1: 0%;
+  --c-2-2: 0%;
+  --c-2-3: 0%;
+  --c-2-4: 0%;
+  --c-2-5: 0%;
+  --c-2-6: 0%;
+  --c-2-7: 0%;
+  --c-2-8: 0%;
+  --c-2-9: 0%;
+  --c-2-10: 0%;
+  --c-2-11: 0%;
+  --c-2-12: 0%;
+  --c-2-13: 0%;
+  --c-2-14: 0%;
+  --c-3-0: 0%;
+  --c-3-1: 0%;
+  --c-3-2: 0%;
+  --c-3-3: 0%;
+  --c-3-4: 0%;
+  --c-3-5: 0%;
+  --c-3-6: 0%;
+  --c-3-7: 0%;
+  --c-3-8: 0%;
+  --c-3-9: 0%;
+  --c-3-10: 0%;
+  --c-3-11: 0%;
+  --c-3-12: 0%;
+  --c-3-13: 0%;
+  --c-3-14: 0%;
+  --c-4-0: 0%;
+  --c-4-1: 0%;
+  --c-4-2: 0%;
+  --c-4-3: 0%;
+  --c-4-4: 0%;
+  --c-4-5: 0%;
+  --c-4-6: 0%;
+  --c-4-7: 0%;
+  --c-4-8: 0%;
+  --c-4-9: 0%;
+  --c-4-10: 0%;
+  --c-4-11: 0%;
+  --c-4-12: 0%;
+  --c-4-13: 0%;
+  --c-4-14: 0%;
+  --c-5-0: 0%;
+  --c-5-1: 0%;
+  --c-5-2: 0%;
+  --c-5-3: 0%;
+  --c-5-4: 0%;
+  --c-5-5: 0%;
+  --c-5-6: 0%;
+  --c-5-7: 0%;
+  --c-5-8: 0%;
+  --c-5-9: 0%;
+  --c-5-10: 0%;
+  --c-5-11: 0%;
+  --c-5-12: 0%;
+  --c-5-13: 0%;
+  --c-5-14: 0%;
+  --c-6-0: 0%;
+  --c-6-1: 0%;
+  --c-6-2: 0%;
+  --c-6-3: 0%;
+  --c-6-4: 0%;
+  --c-6-5: 0%;
+  --c-6-6: 0%;
+  --c-6-7: 0%;
+  --c-6-8: 0%;
+  --c-6-9: 0%;
+  --c-6-10: 0%;
+  --c-6-11: 0%;
+  --c-6-12: 0%;
+  --c-6-13: 0%;
+  --c-6-14: 0%;
+  --c-7-0: 0%;
+  --c-7-1: 0%;
+  --c-7-2: 0%;
+  --c-7-3: 0%;
+  --c-7-4: 0%;
+  --c-7-5: 0%;
+  --c-7-6: 0%;
+  --c-7-7: 0%;
+  --c-7-8: 0%;
+  --c-7-9: 0%;
+  --c-7-10: 0%;
+  --c-7-11: 0%;
+  --c-7-12: 0%;
+  --c-7-13: 0%;
+  --c-7-14: 0%;
+  --c-8-0: 0%;
+  --c-8-1: 0%;
+  --c-8-2: 0%;
+  --c-8-3: 0%;
+  --c-8-4: 0%;
+  --c-8-5: 0%;
+  --c-8-6: 0%;
+  --c-8-7: 0%;
+  --c-8-8: 0%;
+  --c-8-9: 0%;
+  --c-8-10: 0%;
+  --c-8-11: 0%;
+  --c-8-12: 0%;
+  --c-8-13: 0%;
+  --c-8-14: 0%;
+  --c-9-0: 0%;
+  --c-9-1: 0%;
+  --c-9-2: 0%;
+  --c-9-3: 0%;
+  --c-9-4: 0%;
+  --c-9-5: 0%;
+  --c-9-6: 0%;
+  --c-9-7: 0%;
+  --c-9-8: 0%;
+  --c-9-9: 0%;
+  --c-9-10: 0%;
+  --c-9-11: 0%;
+  --c-9-12: 0%;
+  --c-9-13: 0%;
+  --c-9-14: 0%;
+  --c-10-0: 0%;
+  --c-10-1: 0%;
+  --c-10-2: 0%;
+  --c-10-3: 0%;
+  --c-10-4: 0%;
+  --c-10-5: 0%;
+  --c-10-6: 0%;
+  --c-10-7: 0%;
+  --c-10-8: 0%;
+  --c-10-9: 0%;
+  --c-10-10: 0%;
+  --c-10-11: 0%;
+  --c-10-12: 0%;
+  --c-10-13: 0%;
+  --c-10-14: 0%;
+  --c-11-0: 0%;
+  --c-11-1: 0%;
+  --c-11-2: 0%;
+  --c-11-3: 0%;
+  --c-11-4: 0%;
+  --c-11-5: 0%;
+  --c-11-6: 0%;
+  --c-11-7: 0%;
+  --c-11-8: 0%;
+  --c-11-9: 0%;
+  --c-11-10: 0%;
+  --c-11-11: 0%;
+  --c-11-12: 0%;
+  --c-11-13: 0%;
+  --c-11-14: 0%;
+  --c-12-0: 0%;
+  --c-12-1: 0%;
+  --c-12-2: 0%;
+  --c-12-3: 0%;
+  --c-12-4: 0%;
+  --c-12-5: 0%;
+  --c-12-6: 0%;
+  --c-12-7: 0%;
+  --c-12-8: 0%;
+  --c-12-9: 0%;
+  --c-12-10: 0%;
+  --c-12-11: 0%;
+  --c-12-12: 0%;
+  --c-12-13: 0%;
+  --c-12-14: 0%;
+  --c-13-0: 0%;
+  --c-13-1: 0%;
+  --c-13-2: 0%;
+  --c-13-3: 0%;
+  --c-13-4: 0%;
+  --c-13-5: 0%;
+  --c-13-6: 0%;
+  --c-13-7: 0%;
+  --c-13-8: 0%;
+  --c-13-9: 0%;
+  --c-13-10: 0%;
+  --c-13-11: 0%;
+  --c-13-12: 0%;
+  --c-13-13: 0%;
+  --c-13-14: 0%;
+  --c-14-0: 0%;
+  --c-14-1: 0%;
+  --c-14-2: 0%;
+  --c-14-3: 0%;
+  --c-14-4: 0%;
+  --c-14-5: 0%;
+  --c-14-6: 0%;
+  --c-14-7: 0%;
+  --c-14-8: 0%;
+  --c-14-9: 0%;
+  --c-14-10: 0%;
+  --c-14-11: 0%;
+  --c-14-12: 0%;
+  --c-14-13: 0%;
+  --c-14-14: 0%;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: grid;
+  place-content: center;
+  grid-auto-flow: column;
+  gap: 40px;
+  background: #C5E0DC;
+}
