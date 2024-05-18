@@ -1,2 +1,2 @@
 # Image-fragmentation-effect
-Image Fragmentation Effect - Refer Codepen resource - https://codepen.io/8manteam/pen/XWQeXMX
+Image Fragmentation Effect - Refer to CodePen resource - t.ly/_S9Z4
